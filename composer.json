@@ -8,6 +8,11 @@
     "require": {
       "composer/installers": "~1.0"
     },
+    "autoload": {
+      "files": [
+        "./menu-item-custom-fields.php"
+      ]
+    },
     "require-dev": {
         "wp-coding-standards/wpcs": "^0.10.0"
     }
