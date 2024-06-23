@@ -6,7 +6,7 @@
     "license": "GPL-2.0",
     "type": "wordpress-plugin",
     "require": {
-      "composer/installers": "~1.0"
+      "jankx/helpers": "*"
     },
     "autoload": {
       "files": [
